@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/free-store/static/css/main.8b4f4322.css",
+    "main.js": "/free-store/static/js/main.34b94ec7.js",
+    "index.html": "/free-store/index.html",
+    "main.8b4f4322.css.map": "/free-store/static/css/main.8b4f4322.css.map",
+    "main.34b94ec7.js.map": "/free-store/static/js/main.34b94ec7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b4f4322.css",
+    "static/js/main.34b94ec7.js"
+  ]
+}
